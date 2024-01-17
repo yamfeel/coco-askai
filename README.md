@@ -6,7 +6,7 @@
 
 This is a note assistant that allows you to easily and swiftly use AI, reducing the burden of your questions in an elegant interactive way, making writing more comfortable and enjoyable.
 
-<img src="https://pg.yamfeel.cn/obsidian/4bz3i-fErrbK-20240101.webp" style="border: 2px solid rgba(51, 51, 51, 0.067); width:80%; display: block"  data-align="center">
+<img src="https://raw.githubusercontent.com/yamfeel/history/master/images202401180202813.webp" style="border: 2px solid rgba(51, 51, 51, 0.067); width:80%; display: block"  data-align="center">
 
 ## ✨ Features
 
@@ -28,9 +28,9 @@ CoCo AskAI is a tool developed based on the Obsidian plugin system, connected to
 
 ## 🚀 Quick Start
 
-- Static Installation - [Download](https:baidu.com)
+- Static Installation - [Download](https://ai.yamfeel.com)
 
-	1. Place the `.obsidian\coco-askai` file from the extracted plugin package into your knowledge base directory.
+	1. Place the `.obsidian\plugins\coco-askai` file from the extracted plugin package into your knowledge base directory.
 	2. Restart the Obsidian software, enter your knowledge base, and enable the `CoCo AskAI` plugin.
 	3. Open the `CoCo AskAI` configuration, and fill in the service provider's key (e.g. openai key).
 
