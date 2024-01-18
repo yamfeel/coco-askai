@@ -1,0 +1,10 @@
+{
+	"id": "coco-askai",
+	"name": "CoCo AskAI",
+	"version": "1.0.1",
+	"minAppVersion": "1.3.6",
+	"description": "Let your questions flow swiftly with CoCo AskAI.",
+	"author": "Yukee",
+	"authorUrl": "https://ai.yamfeel.com",
+	"isDesktopOnly": true
+}
