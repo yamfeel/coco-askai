@@ -39,9 +39,13 @@ CoCo AskAI is a tool developed based on the Obsidian plugin system, connected to
 	You have successfully installed the plugin and configured the key, now you just need to configure the shortcuts to ask AI~
 
 	Recommended shortcut key configurations
+
 	Ask: `New Question` - `Ctrl/Command + J` (create a new question window)
+
 	Follow-up: `Continue FocusWin` - `Ctrl/Command + R` (follow-up on the current focused window)
+
 	History: `HistoryWinOnOff` - `Alt/Command + H` (view local historical conversation records)
+
 	...
 
 ***
