@@ -6,7 +6,7 @@
 
 This is a note assistant that allows you to easily and swiftly use AI, reducing the burden of your questions in an elegant interactive way, making writing more comfortable and enjoyable.
 
-<img src="https://raw.githubusercontent.com/yamfeel/history/master/images202401180202813.webp" style="border: 2px solid rgba(51, 51, 51, 0.067); width:80%; display: block"  data-align="center">
+<img src="https://raw.githubusercontent.com/yamfeel/history/master/images202401190039720.gif" style="border: 2px solid rgba(51, 51, 51, 0.067); width:100%; display: block">
 
 ## ✨ Features
 
