@@ -24,11 +24,18 @@ This is a note assistant that allows you to easily and swiftly use AI, reducing 
 
 CoCo AskAI is a tool developed based on the Obsidian plugin system, connected to the OpenAI GPT Model to provide network services (currently only supporting OpenAI).
 
+> CoCo AskAI provides two options. In case users are unable to access OpenAI services due to special reasons, they can choose our provided network services.
+> 
+> AI service endpoint (optional): https://askai-api.yamfeel.com; 
+> Emoji assets service endpoint (optional): https://assets.yamfeel.com
+
 ***
 
 ## 🚀 Quick Start
 
 - Static Installation - [Download](https://ai.yamfeel.com)
+
+_This section describes temporary actions and generally advises against manual static installation._
 
 	1. Place the `.obsidian\plugins\coco-askai` file from the extracted plugin package into your knowledge base directory.
 	2. Restart the Obsidian software, enter your knowledge base, and enable the `CoCo AskAI` plugin.
