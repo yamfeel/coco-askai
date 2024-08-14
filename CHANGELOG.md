@@ -1,3 +1,17 @@
+## [1.0.25-Alpha](https://github.com/yamfeel/coco-askai/releases/tag/1.0.25) (2024-08-14)
+
+### Enhancements
+
+- Added top-mounted window logo.
+- Optimized Chinese words for display.
+- Optimized English words for display.
+- Optimized template path.
+- Updated to the latest GPT-4-mini parameters.
+
+### Bug Fixes
+
+- Fixed the issue where text could not be selected in the pinned window.
+
 ## [1.0.23-Alpha](https://github.com/yamfeel/coco-askai/releases/tag/1.0.23) (2024-05-08)
 
 ### Enhancements
