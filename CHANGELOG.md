@@ -1,4 +1,4 @@
-## [1.0.26-Alpha](https://github.com/yamfeel/coco-askai/releases/tag/1.0.26) (2024-08-15)
+## [1.0.27-Alpha](https://github.com/yamfeel/coco-askai/releases/tag/1.0.27) (2024-12-05)
 
 ### Enhancements
 
