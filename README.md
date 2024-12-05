@@ -4,7 +4,7 @@
 
 ## 📖 Introduction
 
-This is a note assistant that allows you to easily and swiftly use AI, reducing the burden of your questions in an elegant interactive way, making writing more comfortable and enjoyable.
+This is a note assistant that allows you to easily and swiftly use AI, reducing the burden of your questions in an elegant interactive way, making writing more comfortable and enjoyable. Now supports both OpenAI and Ollama local models.
 
 <img src="https://raw.githubusercontent.com/yamfeel/history/master/images202401190039720.gif" style="border: 2px solid rgba(51, 51, 51, 0.067); width:100%; display: block">
 
@@ -19,12 +19,13 @@ This is a note assistant that allows you to easily and swiftly use AI, reducing 
 - 💻 Command-line interaction, support multi-command configuration, and quickly switch large model parameters.
 - 🧩 Template supports function functionality, providing more extensibility (currently not open for embedding).
 - 📚 The input box supports `Ctrl/Command + ↑/↓` for switching historical inputs, and `Shift + Enter` for line breaks.
+- 🖥️ Supports both OpenAI and Ollama local models.
 
 ## 🚗 Drive
 
-CoCo AskAI is a tool developed based on the Obsidian plugin system, connected to the OpenAI GPT Model to provide network services (currently only supporting OpenAI).
+CoCo AskAI is a tool developed based on the Obsidian plugin system, connected to the OpenAI GPT Model and Ollama local models to provide network services.
 
-> CoCo AskAI provides two options. In case users are unable to access OpenAI services due to special reasons, they can choose our provided network services.
+> CoCo AskAI provides two options. In case users are unable to access OpenAI services due to special reasons, they can choose our provided network services or use Ollama local models.
 > 
 > AI service endpoint (optional): https://askai-api.yamfeel.com; 
 > Emoji assets service endpoint (optional): https://assets.yamfeel.com

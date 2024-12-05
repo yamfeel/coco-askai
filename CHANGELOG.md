@@ -1,3 +1,16 @@
+## [1.0.26-Alpha](https://github.com/yamfeel/coco-askai/releases/tag/1.0.26) (2024-08-15)
+
+### Enhancements
+
+- Improved continuation logic to reduce errors in the continuation feature.
+- Optimized menu interaction for smoother user experience.
+- Rebuilt single service with factory design pattern to support additional services, including Ollama.
+
+### Bug Fixes
+
+- Addressed an issue with the template menu file creation to prevent duplicate creations.
+- Addressed an error in component rendering when no window is present.
+
 ## [1.0.25-Alpha](https://github.com/yamfeel/coco-askai/releases/tag/1.0.25) (2024-08-14)
 
 ### Enhancements
