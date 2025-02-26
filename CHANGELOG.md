@@ -1,3 +1,16 @@
+## [1.0.30-Alpha](https://github.com/yamfeel/coco-askai/releases/tag/1.0.30) (2025-02-26)
+
+### Enhancements
+
+- Added support for encapsulating the thinking module to support thinking models.
+- Added support for LM Studio configuration.
+- Optimized window scrolling so it only auto-scrolls when reaching the bottom.
+
+### Bug Fixes
+
+- Fixed an issue where Ollama byte streams could cause data loss.
+- Optimized code size.
+
 ## [1.0.27-Alpha](https://github.com/yamfeel/coco-askai/releases/tag/1.0.27) (2024-12-05)
 
 ### Enhancements
