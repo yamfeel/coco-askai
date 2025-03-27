@@ -1,3 +1,19 @@
+## [1.1.0-Alpha](https://github.com/yamfeel/coco-askai/releases/tag/1.1.0) (2025-03-27)
+### Enhancements
+
+- Automated configuration retrieval for **Ollama** and **LMStudio** Reset buttons to streamline model setups.
+- Introduced two new **menu sorting options**: sort by *usage frequency* or *last used timestamp*.
+- Added **model tag functionality** in Prompts to dynamically select models for flexible configurations.
+- Implemented toggle and quantity limit features for *listening tags* to enhance customization.
+- Optimized **menu style interaction** for smoother animations and user experience.
+- Caching emoji resources to prevent duplication and flickering caused by expiration.
+- Refactored configuration code into simplified groups for easier maintainability.
+- Enabled search via `[[`/`【【` symbols and optimized the **index algorithm** to boost search efficiency.
+
+### Bug Fixes
+
+- Fixed byte stream discontinuation in large model flow data processing (prevents data loss).
+
 ## [1.0.30-Alpha](https://github.com/yamfeel/coco-askai/releases/tag/1.0.30) (2025-02-26)
 
 ### Enhancements
@@ -9,7 +25,7 @@
 ### Bug Fixes
 
 - Fixed an issue where Ollama byte streams could cause data loss.
-- Optimized code size.
+- Optimized code size by removing dependencies on emoji.
 
 ## [1.0.27-Alpha](https://github.com/yamfeel/coco-askai/releases/tag/1.0.27) (2024-12-05)
 
@@ -55,4 +71,3 @@
 ### Bug Fixes
 
 - Fix some startup problems.
-
