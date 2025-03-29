@@ -1,3 +1,9 @@
+## [1.1.2-Alpha](https://github.com/yamfeel/coco-askai/releases/tag/1.1.2) (2025-03-29)
+### Enhancements
+
+- **Menu Rendering Optimization**: Introduced `MenuItemPool` for efficient reuse, improving menu creation/recycling performance by ~40%
+- **Session Model Persistence**: Automatically restores the previously selected AI model (e.g. Llama2/gpt-4o) when reopening conversation windows
+
 ## [1.1.0-Alpha](https://github.com/yamfeel/coco-askai/releases/tag/1.1.0) (2025-03-27)
 ### Enhancements
 
@@ -13,7 +19,6 @@
 ### Bug Fixes
 
 - Fixed byte stream discontinuation in large model flow data processing (prevents data loss).
-
 ## [1.0.30-Alpha](https://github.com/yamfeel/coco-askai/releases/tag/1.0.30) (2025-02-26)
 
 ### Enhancements
