@@ -1,10 +1,17 @@
+## [1.1.3-Alpha] (2025-03-31)
+### Bug Fixes
+
+- **Model Config Validation**: [🐛 Fix: Improve model config validation and error handling] Extended support for OpenAI, O1, O3 models.
+
 ## [1.1.2-Alpha](https://github.com/yamfeel/coco-askai/releases/tag/1.1.2) (2025-03-29)
+
 ### Enhancements
 
 - **Menu Rendering Optimization**: Introduced `MenuItemPool` for efficient reuse, improving menu creation/recycling performance by ~40%
 - **Session Model Persistence**: Automatically restores the previously selected AI model (e.g. Llama2/gpt-4o) when reopening conversation windows
 
 ## [1.1.0-Alpha](https://github.com/yamfeel/coco-askai/releases/tag/1.1.0) (2025-03-27)
+
 ### Enhancements
 
 - Automated configuration retrieval for **Ollama** and **LMStudio** Reset buttons to streamline model setups.
