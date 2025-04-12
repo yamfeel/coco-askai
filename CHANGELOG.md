@@ -1,4 +1,17 @@
-## [1.1.3-Alpha] (2025-03-31)
+## [1.1.9-Alpha](https://github.com/yamfeel/coco-askai/releases/tag/1.1.9) (2025-04-13)
+### Enhancements
+- **OpenRouter Integration**: Full support for OpenRouter in model handling pipeline
+- **Model Configuration**: Added dynamic GPTParams interface parameters for fine-grained control
+- **Text Processing**: Improved newline handling consistency in AskAIRequest and TextTool
+- **UI Optimization**: Adjusted textarea minimum height in model config for better visual hierarchy
+- **Reasoning Engine**: Enhanced streaming data processing logic in LMStudioRequest and OpenAIRequest
+- **Role Management**: Implemented default role preference settings persistence
+
+### Bug Fixes
+- **Role Selection**: 🐛 Fixed default role application logic to only trigger on first call (prevent mid-conversation overrides)
+- **Error Handling**: Strengthened error fallback mechanisms in AskAIRequest pipeline
+
+## [1.1.3-Alpha](https://github.com/yamfeel/coco-askai/releases/tag/1.1.3) (2025-03-31)
 ### Bug Fixes
 
 - **Model Config Validation**: [🐛 Fix: Improve model config validation and error handling] Extended support for OpenAI, O1, O3 models.
