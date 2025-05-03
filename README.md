@@ -2,20 +2,29 @@
 
 > This is a closed-source Obsidian plugin.
 
-🚀 **What's New in v1.1.0** 
+🚀 **What's New in v1.1.13** 
 
-🌟 **Key Enhancements**:  
-- 🔌 **Ollama/LMStudio Auto-Config**: One-click reset buttons for model setups.  
-- 📊 **Menu Sorting**: Now sort by *usage frequency* or *last used time*.  
-- ⚙️ **Model Tags**: Dynamic model selection directly in Prompts.  
-- 🔄 **Listening Tag Controls**: Toggle & quantity limits for advanced filtering.  
+**✨ Key Features**:  
+- 🧩 **AskWin Redesign**: Native multi-directional resize handles.
+- 🧾 **Right-Click Menu**: Customizable settings with toggle switches & item management.
+- 🧠 **Model Config Updates**: OpenRouter support + new models (old ones deprecated!).
+- **🧠 Model Tags**: Pick the perfect AI model directly in your prompts.  
+- **🛠️ Advanced Filtering**: Use toggle switches and quantity limits to refine your AI interactions.  
+- **🔧 Ollama/LMStudio Auto-Config**: One-click reset buttons for model setups.  
+- **🧭 Menu Sorting**: Now sort by *usage frequency* or *last used time*.  
+- **🔄 Dynamic Model Selection**: Choose models directly in prompts for smarter AI.  
+- **📌 Listening Tag Controls**: Toggle & quantity limits for advanced filtering.  
 
-🔧 **Under the Hood**:  
-- 💾 Emoji resource caching to prevent flickering/expiry.  
-- 🔍 Enhanced support for note searches using `[[`/`【【` symbols.
+**💡 Enhancements**:  
+- 🧠 **Drag-Resize Logic**: Smoother interactions for resizing/dragging!
+- 🧩 **Dynamic Node Retrieval**: Auto-fetches node elements in AskAiView.
+- 📝 **UI Consistency**: Fixed newline handling for uniform text across tools.
+- **🖼️ Emoji Caching**: Prevent flickering/expiry with cached emoji resources.  
+- **🔎 Note Search Boost**: Enhanced support for `[[`/`【【` symbols.  
 
-🐞 **Critical Fixes**:  
-- 🚀 Fixed large model byte-stream interruptions. (no more byte-data loss).  
+**🛠️ Critical Fixes**:  
+- **📦 Byte-Stream Stability**: Fixed large model interruptions.  
+- **🔒 Role Persistence**: Default settings now stick to first use.  
 
 ---  
 [Jump to Full Changelog →](https://github.com/yamfeel/coco-askai/blob/main/CHANGELOG.md)  

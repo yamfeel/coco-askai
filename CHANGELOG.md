@@ -1,3 +1,17 @@
+## [1.1.13-Alpha](https://github.com/yamfeel/coco-askai/releases/tag/1.1.13) (2025-05-03)  
+### **Features**
+- **AskWin Redesign**: Native multi-directional resize handles implemented (removed `interactjs` dependency)  
+- **Right-Click Menu**: Added customizable settings with toggle switches and item management  
+- **Model Configuration**: Updated OpenRouter support with new models and deprecated model removals  
+
+### **Enhancements**  
+- **Drag-Resize Logic**: Optimized event handling for smoother resizing and dragging interactions  
+- **Dynamic Node Retrieval**: Refactored `AskAiView` to dynamically fetch node elements 
+- **UI Consistency**: Fixed newline handling in `AskAIRequest` and `TextTool` for uniform text processing 
+### **Bug Fixes**  
+- **Role Persistence**: Ensured default role settings apply only on first call (prevents mid-conversation overrides)  
+- **Overflow Control**: Hidden overflow on task box and replaced last line node with `<p>` element 
+
 ## [1.1.9-Alpha](https://github.com/yamfeel/coco-askai/releases/tag/1.1.9) (2025-04-13)
 ### Enhancements
 - **OpenRouter Integration**: Full support for OpenRouter in model handling pipeline
