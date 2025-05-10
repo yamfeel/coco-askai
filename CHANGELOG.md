@@ -1,3 +1,17 @@
+## [1.1.19-Beta](https://github.com/yamfeel/coco-askai/releases/tag/1.1.19) (2025-05-10)
+
+### ⚡ Performance Upgrades
+- **Null Safety**: Components now handle missing data more gracefully
+- **Text Selection**: Smoother highlighting experience in input fields
+- **Emoji Performance**: Frequently used emojis load faster with new caching
+
+### 🛠️ Under the Hood
+- **Data Models**: Optimized core structures for better efficiency
+
+### 🐛 Important Fixes
+- **Selection Issues**: Resolved text highlighting inconsistencies
+- **Code Cleanup**: Removed deprecated functions
+
 ## [1.1.13-Alpha](https://github.com/yamfeel/coco-askai/releases/tag/1.1.13) (2025-05-03)  
 ### **Features**
 - **AskWin Redesign**: Native multi-directional resize handles implemented (removed `interactjs` dependency)  
@@ -11,7 +25,6 @@
 ### **Bug Fixes**  
 - **Role Persistence**: Ensured default role settings apply only on first call (prevents mid-conversation overrides)  
 - **Overflow Control**: Hidden overflow on task box and replaced last line node with `<p>` element 
-
 ## [1.1.9-Alpha](https://github.com/yamfeel/coco-askai/releases/tag/1.1.9) (2025-04-13)
 ### Enhancements
 - **OpenRouter Integration**: Full support for OpenRouter in model handling pipeline
