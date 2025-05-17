@@ -1,3 +1,16 @@
+## [1.1.21-Beta](https://github.com/yamfeel/coco-askai/releases/tag/1.1.21) (2025-05-17)
+### ✨ New Features
+- **Window Customization**: Added flexible window size settings for better workspace control
+- **Focus Mode**: New concentration assistant with customizable duration settings
+
+### ⚡ Performance Upgrades  
+- **Menu Interactions**: Smoother submenu navigation and quicker response times
+- **Input Handling**: More responsive keyword searches with optimized processing
+
+### 🛠️ Under the Hood
+- **Code Quality**: Improved internal structure for better stability and future updates
+- **Settings Management**: Streamlined configuration system for easier preferences adjustment
+
 ## [1.1.19-Beta](https://github.com/yamfeel/coco-askai/releases/tag/1.1.19) (2025-05-10)
 
 ### ⚡ Performance Upgrades
