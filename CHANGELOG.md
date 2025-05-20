@@ -1,3 +1,7 @@
+## [1.1.22](https://github.com/yamfeel/coco-askai/releases/tag/1.1.22) (2025-05-20)
+### 🛠️ Bug Fixes
+- **Focus Mode**: Resolved issue with focus mode not functioning correctly
+
 ## [1.1.21-Beta](https://github.com/yamfeel/coco-askai/releases/tag/1.1.21) (2025-05-17)
 ### ✨ New Features
 - **Window Customization**: Added flexible window size settings for better workspace control
