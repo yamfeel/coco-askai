@@ -1,3 +1,8 @@
+## [1.1.23](https://github.com/yamfeel/coco-askai/releases/tag/1.1.23) (2026-02-28)
+### ⚡ Performance Upgrades
+- **OpenAI Request**: Optimized OpenAI request processing logic
+- **Display Logic**: Improved display rendering logic
+
 ## [1.1.22](https://github.com/yamfeel/coco-askai/releases/tag/1.1.22) (2025-05-20)
 ### 🛠️ Bug Fixes
 - **Focus Mode**: Resolved issue with focus mode not functioning correctly
