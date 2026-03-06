@@ -1,3 +1,10 @@
+## [1.1.24](https://github.com/yamfeel/coco-askai/releases/tag/1.1.24) (2026-03-06)
+### ✨ New Features
+- **Ollama Support**: Updated compatibility with the latest version of Ollama for improved stability
+
+### ⚡ Performance Upgrades
+- **Thinking Mode**: Enhanced handling and display of AI reasoning output for smoother, more natural responses
+
 ## [1.1.23](https://github.com/yamfeel/coco-askai/releases/tag/1.1.23) (2026-02-28)
 ### ⚡ Performance Upgrades
 - **OpenAI Request**: Optimized OpenAI request processing logic
