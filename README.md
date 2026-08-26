@@ -1,3 +1,5 @@
+
+
 # CoCo-AskAI
 
 > This is a closed-source Obsidian plugin.
@@ -5,9 +7,9 @@
 🚀 **What's New in v1.1.13** 
 
 **✨ Key Features**:  
-- 🧩 **AskWin Redesign**: Native multi-directional resize handles.
-- 🧾 **Right-Click Menu**: Customizable settings with toggle switches & item management.
-- 🧠 **Model Config Updates**: OpenRouter support + new models (old ones deprecated!).
+- 🧩 **AskWin Redesign**: Native multi-directional resize handles.
+- 🧾 **Right-Click Menu**: Customizable settings with toggle switches & item management.
+- 🧠 **Model Config Updates**: OpenRouter support + new models (old ones deprecated!).
 - **🧠 Model Tags**: Pick the perfect AI model directly in your prompts.  
 - **🛠️ Advanced Filtering**: Use toggle switches and quantity limits to refine your AI interactions.  
 - **🔧 Ollama/LMStudio Auto-Config**: One-click reset buttons for model setups.  
@@ -16,9 +18,9 @@
 - **📌 Listening Tag Controls**: Toggle & quantity limits for advanced filtering.  
 
 **💡 Enhancements**:  
-- 🧠 **Drag-Resize Logic**: Smoother interactions for resizing/dragging!
-- 🧩 **Dynamic Node Retrieval**: Auto-fetches node elements in AskAiView.
-- 📝 **UI Consistency**: Fixed newline handling for uniform text across tools.
+- 🧠 **Drag-Resize Logic**: Smoother interactions for resizing/dragging!
+- 🧩 **Dynamic Node Retrieval**: Auto-fetches node elements in AskAiView.
+- 📝 **UI Consistency**: Fixed newline handling for uniform text across tools.
 - **🖼️ Emoji Caching**: Prevent flickering/expiry with cached emoji resources.  
 - **🔎 Note Search Boost**: Enhanced support for `[[`/`【【` symbols.  
 
@@ -54,7 +56,7 @@ CoCo AskAI is a tool developed based on the Obsidian plugin system, connected to
 
 ## 🚀 Quick Start
 
-- Static Installation - [Download](https://ai.yamfeel.com)
+- Static Installation - [Download](https://ai.yamfeel.com)
 
 	1. Place the `.obsidian\plugins\coco-askai` file from the extracted plugin package into your knowledge base directory.
 	2. Restart the Obsidian software, enter your knowledge base, and enable the `CoCo AskAI` plugin.
@@ -127,7 +129,7 @@ We provide advanced players with the function to adjust model parameters, which 
 
 - **e.g.** Set the `GPT3.5` model, with a response temperature of `0.8`
 
-	Standard command: `-ask -model gpt-3.5-turbo -temperature 1.8`
+	Standard command: `-ask -model gpt-3.5-turbo -temperature 0.8`
 	Abbreviated command: `-ask -md 3 -temp .8`
 
 Introduction to configurable commands:
@@ -139,7 +141,7 @@ Introduction to configurable commands:
 - presence_penalty: -2 to 2 A floating-point number representing the relevance of the generated text. A higher value will result in less irrelevant generated text.
 - max_tokens: `Depends on the model size` An integer representing the maximum length of the generated text.
 
-Comparison Table：
+Comparison Table：
 
 | Configurable Options          | Abbreviated  |
 | ----------------- | ----- |
